@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "tntchanges:blocks/example_tnt_top",
+    "bottom": "tntchanges:blocks/example_tnt_bottom",
+    "side": "tntchanges:blocks/example_tnt_side"
+  }
+}

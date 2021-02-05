@@ -1,3 +1,5 @@
 {
-  "block.tntchanges.example_tnt": "Example TNT"
+  "block.tntchanges.example_tnt": "Example TNT",
+
+  "itemGroup.tnt_group": "TNT Changes"
 }
